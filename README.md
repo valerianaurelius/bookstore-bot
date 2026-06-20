@@ -40,8 +40,13 @@ A fully functional Telegram bot simulating an online bookstore. Built with Pytho
    ```
 5. Open Telegram, find your bot and send /start.
 
-📷 Screenshots
-
-(You will add screenshots here)
 
 
+## 📷 Screenshots
+
+![Main Menu](screenshot1.png)
+![Browse Categories](screenshot2.png)
+![Book Detail](screenshot3.png)
+![Book Detail](screenshot3.0.png)
+![Shopping Cart](screenshot4.png)
+![Checkout Success](screenshot5.png)
