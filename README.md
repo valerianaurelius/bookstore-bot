@@ -44,9 +44,9 @@ A fully functional Telegram bot simulating an online bookstore. Built with Pytho
 
 ## 📷 Screenshots
 
-![Main Menu](screenshot1.png)
-![Browse Categories](screenshot2.png)
-![Book Detail](screenshot3.png)
-![Book Detail](screenshot3.0.png)
-![Shopping Cart](screenshot4.png)
-![Checkout Success](screenshot5.png)
+![Main Menu](screenshot1.jpg)
+![Browse Categories](screenshot2.jpg)
+![Book Detail](screenshot3.jpg)
+![Book Detail](screenshot3.0.jpg)
+![Shopping Cart](screenshot4.jpg)
+![Checkout Success](screenshot5.jpg)
